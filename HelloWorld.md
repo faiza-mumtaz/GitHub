@@ -1,4 +1,5 @@
-# and this change will cause the conflict
+
+# This line will conflict with another change
 # Hello World!
 ## Editing on my first branch
 
